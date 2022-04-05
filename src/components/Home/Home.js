@@ -17,16 +17,9 @@ const Home = () => {
       </div>
       <div className="mt-2 mx-9 mb-16">
         <p className="font-medium  text-2xl text-slate-400 ">
-          Honda has a well-deserved reputation for making well-built,
-          well-engineered cars, and that holds true across its entire lineup.
-          Fuel-efficient and spacious, most Hondas are both enjoyable to drive
-          and boast solid reliability. The mid-size Accord family sedan, a
-          longtime 10Best award winner, is Honda's bread and butter. Honda knows
-          how to have fun, too, with models such as the exciting and sporty
-          Civic Si and the hot-hatch Civic Type R. The practical CR-V compact
-          SUV is its most popular offering. Honda also offers more offbeat
-          models such as the versatile Ridgeline pickup and family-friendly
-          people haulers such as the Odyssey minivan and the Pilot SUV.
+        While the date palm tree is called “nakhl,” the fruit is called “tamr” in Arabic.
+The date palm, mentioned more than any other fruit-bearing plant in the Quran, is a symbol often associated with Islam and Muslims. Throughout the month of Ramadan, dates are a common ingredient in the Muslim diet.
+The Prophet said: “Break your fast by eating dates as it is purifying,” (Ahmad).
         </p>
         <Link to="/reviews">
           <button className="border-2 border-solid bg-red-700 text-white py-2 px-3 rounded-md text-lg mt-7">

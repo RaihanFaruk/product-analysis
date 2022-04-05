@@ -1,0 +1,66 @@
+
+[
+    {
+            "id": "1",
+            "name": "Sajid of Spring, TX",
+            "rating": "5/5",
+            "review" : "The Honda brand is been a long time reliable ride for my family. I have 4 Honda Civic, Honda Accord, Honda Odyssey, Honda CR-V. Most reliable ride over all handling Power Ride and Maintenance Safety Features Radial Tires Engine Design for power to haul 8 people for family members with kids for school rides soccers playground and other Various track and field’s events as well for Going to the Beach and Family Vacations to Florida Disney Land etc.",
+            "img": "https://i.ibb.co/ScZr0tp/vince-fleming-THUISs23-CI-unsplash.jpg" 
+    },
+    {
+        "id": "2",
+        "name" : "Sosmita of Ashburn, VA",
+       "rating" :"4/5",
+       "review": "Honda brand Cars stand the test of time. The affordability when repairs are needed are one of the major reasons I would purchase another Honda. The only issues I came across were with the AC and some minor electrical issues. The AC apparently had some issues that were addressed company wide and when I went to a Honda Service Center, The problem was fixed free of charge. As for the electrical issues, I have not had any clear reason told to me of why they occur but have heard from other Honda Owners that they have also experienced small electrical errors. Those issues include the radio/gps monitor and connection",
+       "img": "https://i.ibb.co/6RxT429/tamara-bellis-Brl7bqld05-E-unsplash.jpg"
+    },
+    {
+        "id": "3",
+        "name" : "Alex of Harbor City, CA",
+       "rating" :"2/5",
+       "review": "Honda have good reputation for their vehicles and they last a long time if you keep them in good condition and make sure that you treat your vehicle well and maintain it. They do run well for the Honda vehicles and the company has been around a long time for the vehicle",
+       "img": "https://i.ibb.co/YRhcXxF/cibelly-roberta-SE4-Xc1-Wv-Ik-U-unsplash.jpg"
+    },
+    {
+        "id": "4",
+        "name" : "Lauren of Dallas, TX",
+       "rating" :"1/5",
+       "review": "I purchased a used Honda vehicle, 2014 model, in great condition. After paying 19K for this vehicle, after the first month of owning this vehicle the paint start peeling off the trunk door (Honda Odyssey), and around the door frames. After doing some research I found out that there was a defect with the paint used on Honda Odysseys for the year of my vehicle. Honda knew about this defect and so extended their warranty for 7 years, great. However, for those of us purchasing a vehicle used because we can't afford to purchase new, we don't find out about FACTORY DEFECTS until after the crap hits the fan.",
+       "img": "https://i.ibb.co/WDdPKL2/ian-dooley-d1-UPki-Fd04-A-unsplash.jpg"
+    },
+    {
+        "id": "5",
+        "name" : "Lauren of Kanata, Other",
+       "rating" :"3/5",
+       "review": "The dealer is charging the credit/debit card fee from the customer due to which I personally had to compromise on my home loan emi and the credit score and the query resolution dept says that it can't do anything about this. 2. The dealer isn't providing the temp reg. no. and once again the query resolution team says that it's ok.",
+       "img": "https://i.ibb.co/JjsRrVv/irene-strong-v2a-Knj-Mb-P-k-unsplash.jpg"
+    },
+    {
+        "id": "6",
+        "name" : "K of Lucknow, Other",
+       "rating" :"4/5",
+       "review": "I went into Honda of Burlington here in Washington and was coming in to pay off my 2021 Honda Accord and was persuaded to purchase another vehicle of lesser quality. Within 24 hours of the purchase I regretted this decision because the car was not of equal quality to the car I had drove in there. The general manager called me to tell me she would not give me my original car back.",
+       "img": "https://i.ibb.co/QDnT0K5/julian-wan-WNo-Ln-Jo7t-S8-unsplash.jpg"
+    },
+    {
+        "id": "7",
+        "name" : "Amber of Arlington, WA",
+       "rating" :"1/5",
+       "review": "I recently had the misfortune of purchasing a car (2018 Honda Fit) with Honda Sensing enabled. Within a week, I discovered that the sensors are so flaky as to render the car unsafe to drive - while I was unable to trigger them at all during the test drive (as they sometimes fail to detect anything), the opposite problem (seeing something that isn't there) is where the car becomes unsafe. 3 times in 60 miles of highway driving, the car applied maximum brakes without warning. The road in front of me was clear for several miles (and thankfully also clear behind me), but it always triggered as I was just about to finish passing another car. This compounded the risk of brake checking - had someone been behind me, they absolutely would have rear-ended me, as they would have had no place to go to dodge my vehicle, and absolutely no way to anticipate my car applying the brakes at maximum for several seconds.",
+       "img": "https://i.ibb.co/yRwZBgh/lachlan-dempsey-6-VPEOdp-FNAs-unsplash.jpg"
+    },
+    {
+        "id": "8",
+        "name" : "Qui of Norfolk, VA",
+       "rating" :"2/5",
+       "review": "My parts are on critical back order for repairs for my brand new 2021 CRV. My car has been in the shop since October and Honda has yet to reimburse my car payment or call me back regarding a loaner!!!",
+       "img": "https://i.ibb.co/p4tRgd2/freestocks-9-UVml-Ib0w-JU-unsplash.jpg"
+    },
+    {
+        "id": "9",
+        "name" : "Jason",
+       "rating" :"5/5",
+       "review": "I purchased a new, 2022 Honda Ridgeline Black Edition just a little over two weeks ago. When my vehicle was less than two weeks old, with under 500kms it began throwing warning lights. The awd stopped working and my heater shut down entirely (in minus 30 weather). I was getting a total of eight different warning lights and I couldn't move my electric seats to be able to drive safely. Once I got my vehicle home it would no longer start. I figured no big deal, my vehicle hasn't even gone through its first tank of gas, Honda has a great reputation and will take care of me.",
+       "img": "https://i.ibb.co/2W5T8xD/christian-buehner-DIt-Ylc26z-VI-unsplash.jpg"
+    }
+]
